@@ -2,7 +2,7 @@
 UC Berkeley REYES Research Mentorship 
 
 
-Through this 6-week research program I am exploring two epochs of the early universe that physicists rely on to test their theories of cosmology and particle physics, the Big Bang nucleosynthesis and the cosmic microwave background radiation. I am gaining familiarity with python libraries and the coding tools used to make predictions for these epochs, including LINX, Class, JAX and more! 
+Through this 6-week research program under the guidance of Dr. Cara Giovanneti I am exploring two epochs of the early universe that physicists rely on to test their theories of cosmology and particle physics, the Big Bang nucleosynthesis and the cosmic microwave background radiation. I am gaining familiarity with python libraries and the coding tools used to make predictions for these epochs, including LINX, Class, JAX and more! 
 
 References:
 Scott Dodelson, Modern Cosmology
